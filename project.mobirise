@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Erik Lagos Montoya - Consultor",
-    "currentPage": "index.html",
+    "currentPage": "blog.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -90,10 +90,10 @@
         }
       ]
     },
-    "asesoria.html": {
+    "blog.html": {
       "settings": {
         "meta_descr": "Website Builder Description",
-        "title": "Asesoria",
+        "title": "Blog",
         "order": 1
       },
       "components": [

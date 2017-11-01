@@ -1377,3 +1377,43 @@ body {
 .cid-qzGtSV6mqw .mbr-section-subtitle {
   font-style: italic;
 }
+.cid-qzGybDIIso {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/corfo2-1-1131x512.png");
+}
+.cid-qzGzOQ1SGF {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qzGzOQ1SGF .mbr-section-subtitle {
+  color: #767676;
+}
+.cid-qzGA4gT3Jz {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qzGA4gT3Jz .mbr-text,
+.cid-qzGA4gT3Jz blockquote {
+  color: #767676;
+}
+.cid-qzGCHlUgS1 {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+@media (min-width: 992px) {
+  .cid-qzGCHlUgS1 .mbr-figure {
+    padding-right: 4rem;
+  }
+}
+@media (max-width: 992px) {
+  .cid-qzGCHlUgS1 .mbr-figure {
+    padding-bottom: 1rem;
+  }
+}
+.cid-qzGCHlUgS1 .mbr-text {
+  color: #767676;
+}

@@ -1380,7 +1380,7 @@ body {
 .cid-qzGybDIIso {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-image: url("../../../assets/images/corfo2-1-1131x512.png");
+  background-image: url("../../../assets/images/fondo2-388x310.jpg");
 }
 .cid-qzGzOQ1SGF {
   padding-top: 60px;
@@ -1416,4 +1416,41 @@ body {
 }
 .cid-qzGCHlUgS1 .mbr-text {
   color: #767676;
+}
+.cid-qzGKb21JzX {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #ffffff;
+}
+.cid-qzGKb21JzX .counter-container {
+  color: #767676;
+}
+.cid-qzGKb21JzX .counter-container ul {
+  margin-bottom: 0;
+}
+.cid-qzGKb21JzX .counter-container ul li {
+  margin-bottom: 1rem;
+  list-style: none;
+}
+.cid-qzGKb21JzX .counter-container ul li:before {
+  position: absolute;
+  left: 0px;
+  margin-top: -10px;
+  padding-top: 3px;
+  content: '';
+  display: inline-block;
+  text-align: center;
+  margin: 5px 10px;
+  line-height: 20px;
+  transition: all .2s;
+  color: #ffffff;
+  background: #149dcc;
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+  content: '✓';
+}
+.cid-qzGKb21JzX .mbr-text UL {
+  color: #232323;
+  text-align: left;
 }

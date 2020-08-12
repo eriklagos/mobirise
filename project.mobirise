@@ -20,12 +20,12 @@
         "display5Font": "Rubik",
         "display5Size": 1.5,
         "display7Font": "Rubik",
-        "display7Size": 1,
+        "display7Size": "1.2",
         "display4Font": "Rubik",
         "display4Size": 1,
         "isRoundedButtons": true,
-        "isAnimatedOnScroll": false,
-        "isScrollToTopButton": false
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true
       },
       "additionalSetColors": []
     },
@@ -38,13 +38,13 @@
         "url": "https://fonts.googleapis.com/css?family=Rubik:300,300i,400,400i,500,500i,700,700i,900,900i"
       }
     ],
-    "favicon": "@PROJECT_PATH@/assets/images/logo-picaflor.png",
+    "favicon": false,
     "noImageResize": "",
-    "google-analytics": "",
+    "google-analytics": "mini huertos mini jardines temáticos",
     "uniqCompNum": 16,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "imageResize": false,
+    "imageResize": true,
     "robotsSwitcher": false,
     "sitemapSwitcher": false,
     "sitemapSwitcherAuto": false,
